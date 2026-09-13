@@ -21,3 +21,5 @@ From there I went to the user's account, located in their respective Organizatio
 The user confirmed that they were able to login to their workstation with the provided temporary password and were prompted to change it at login. 
 
 Ticket was resolved and closed.
+
+[Resolved Jira ticket] ([images/ticket-01/04-ticket-resolved.png](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/d4a52c6f8d16f29bf57a0bc8b4103c34ff948b36/images/ticket-01/04-ticket-resolved.png))
