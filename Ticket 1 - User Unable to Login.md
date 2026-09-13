@@ -4,7 +4,7 @@
 
 User, Oliver Johnson, submitted a trouble ticket stating that they were having issues with logging into their account, after a password reset.
 
-[Original trouble ticket] images/ticket-01/01-ticket-submitted.png
+[Original trouble ticket] (images/ticket-01/01-ticket-submitted.png)
 
 ## Troubleshooting
 
