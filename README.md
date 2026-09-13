@@ -32,3 +32,4 @@ End-user reports that they are unable to login to their workstation using their 
 
 End-user reports that Account is locked.
 
+([Ticket 2 - User Account Locked](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/e32165ff63c5a273f7cdecda9f4e6430c8d66b82/Ticket%202-%20User%20Account%20Locked.md))
