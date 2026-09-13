@@ -24,6 +24,7 @@ to users domain account.
 ### Ticket 1 - User Unable to login
 
 End-user reports that they are unable to login to their workstation using their domain account.
+
 https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/main/Ticket%201%20-%20User%20Unable%20to%20Login.md
 
 
