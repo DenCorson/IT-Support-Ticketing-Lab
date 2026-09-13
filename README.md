@@ -25,7 +25,7 @@ to users domain account.
 
 End-user reports that they are unable to login to their workstation using their domain account.
 
-https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/main/Ticket%201%20-%20User%20Unable%20to%20Login.md
+([Ticket 1 - User Unable to Login.md](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/cfd3a2b0cffb745d0ef8e428391687a2e4e95d95/Ticket%201%20-%20User%20Unable%20to%20Login.md))
 
 
 ### Ticket 2 - Account Lockout
