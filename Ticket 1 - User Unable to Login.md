@@ -4,7 +4,7 @@
 
 User, Oliver Johnson, submitted a trouble ticket stating that they were having issues with logging into their account, after a password reset.
 
-[Original trouble ticket] (images/ticket-01/01-ticket-submitted.png)
+[Original trouble ticket] ([images/ticket-01/01-ticket-submitted.png](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/748ee161c6ff3f826da6512c8dc9b152bfde6938/images/ticket-01/01-ticket-submitted.png))
 
 ## Troubleshooting
 
