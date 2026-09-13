@@ -4,6 +4,8 @@
 
 User, Oliver Johnson, submitted a trouble ticket stating that they were having issues with logging into their account, after a password reset.
 
+[Original trouble ticket] images/ticket-01/01-ticket-submitted.png
+
 ## Troubleshooting
 
 Before I began checking the user's account, I asked them for a description of what the error was displaying to them, I was then told that the error said "The password is incorrect. Try again." 
