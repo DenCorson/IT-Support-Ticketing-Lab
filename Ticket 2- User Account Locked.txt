@@ -1,0 +1,17 @@
+Ticket 2 - User Account Locked
+
+## Problem
+
+Recieved troubleticket states that user, Ned Kevin, is locked out of their acount.
+
+## Troubleshooting
+
+I located the the user's account in Active Directory, and verified that their account was locked out, as ticket suggested.
+
+From there I selected their account and unlocked it. Afterwards, I had notified to submitter that the account for Ned Kevin was unlocked any they would need to input their old password to login.
+
+##Resolution
+
+User was able to login to their workstation.
+
+Ticket was resolved and closed.
