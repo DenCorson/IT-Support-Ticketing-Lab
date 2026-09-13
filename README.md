@@ -24,9 +24,9 @@ to users domain account.
 ### Ticket 1 - User Unable to login
 
 End-user reports that they are unable to login to their workstation using their domain account.
-(.Ticket-1-Login-Issue/ReadMe.md)
+// (.Ticket-1-Login-Issue/ReadMe.md)
 
 ### Ticket 2 - Account Lockout
 
 End-user reports that Account is locked.
-(.Ticket-2-Account-Lockout/ReadMe.md)
+// (.Ticket-2-Account-Lockout/ReadMe.md)
