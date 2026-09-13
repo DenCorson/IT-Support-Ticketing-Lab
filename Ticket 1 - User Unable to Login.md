@@ -14,6 +14,8 @@ Before I began checking the user's account, I asked them for a description of wh
 
 From there I went to the user's account, located in their respective Organizational Unit (OU), and reset their password with a temporary password. After the reset I notified them that I was going to send their temporary password through a secure method.
 
+[Active Directory password reset] ([images/ticket-01/03-ad-password-reset.png](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/2723baa59acad7cffebc1ee9ec72ad782d6c4751/images/ticket-01/03-ad-password-reset.png))
+
 ## Resolution
 
 The user confirmed that they were able to login to their workstation with the provided temporary password and were prompted to change it at login. 
