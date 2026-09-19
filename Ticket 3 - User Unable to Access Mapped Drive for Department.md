@@ -37,4 +37,4 @@ User was able to login to their workstation.
 
 Ticket was resolved and closed.
 
-[Resolved Jira ticket] ([images/ticket-03/06-jira-resolved.png]([https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/abb2fff8d68a117005a310d74f5662ed464b44ea/images/ticket-03/06-jira-resolved.png](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/8883a836ca7225e586278c51ea8bd884c8498f5d/images/ticket-03/06-jira-resolved.png))
+[Resolved Jira ticket] ([images/ticket-03/06-jira-resolved.png]([https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/abb2fff8d68a117005a310d74f5662ed464b44ea/images/ticket-03/06-jira-resolved.png]))
