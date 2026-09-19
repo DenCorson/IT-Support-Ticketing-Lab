@@ -39,4 +39,4 @@ End-user reports that Account is locked.
 
 End-user reports drive is not mapped to their account.
 
-([Ticket 3 - User Unable to Access Mapped Drive] (https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/056dafcb1be790d36122306f6c2c2009ee278309/Ticket%203%20-%20User%20Unable%20to%20Access%20Mapped%20Drive%20for%20Department.md))
+([Ticket 3 - User Unable to Access Mapped Drive](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/056dafcb1be790d36122306f6c2c2009ee278309/Ticket%203%20-%20User%20Unable%20to%20Access%20Mapped%20Drive%20for%20Department.md))
