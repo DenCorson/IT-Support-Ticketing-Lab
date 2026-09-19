@@ -4,13 +4,12 @@ Ticket 3 - User Unable to Access Mapped Drive for department
 
 User, Al Bundy, reports that they are unable to see their department drive mapped to their account.
 
-[User unable to see Finance drive] ([images/ticket-03/01-finance-drive-missing.png] (https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/6fa1b230a07ba43d1869c825247d2b2be51f45c1
-/images/ticket-03/01-finance-drive-missing.png))
+[User unable to see Finance drive] ([images/ticket-03/01-finance-drive-missing.png](https://github.com/DenCorson/IT-Support-TicketingLab/blob/6fa1b230a07ba43d1869c825247d2b2be51f45c1/images/ticket-03/01-finance-drive-missing.png))
 
 ## Troubleshooting
 
 - Verified the Finance network share was created and accessible through '\\DC1\Finance'.
-- Verified the user was a member of the appropiate Finance security groups.
+- Verified the user was a member of the appropriate Finance security groups.
 
 [Finance share and GPO configuration] ([images/ticket-02/02-ad-account-locked.png]()
 
