@@ -1,0 +1,41 @@
+Ticket 3 - User Unable to Access Mapped Drive for department
+
+## Problem
+
+User, Al Bundy, reports that they are unable to see their department drive mapped to their account.
+[User unable to see Finance drive]()
+
+## Troubleshooting
+
+- Verified the Finance network share was created and accessible through '\\DC1\Finance'.
+- Verified the user was a member of the appropiate Finance security groups.
+
+[Finance share and GPO configuration] ([images/ticket-02/02-ad-account-locked.png]()
+
+- Created and linked a GPO to the Finance OU to map '\\DC1\Finance' as the T: Drive.
+
+[Finance drive mapping GPO]()
+
+- Ran 'gpupdate /force' on the client workstation to refresh Group Policy.
+- Used 'gpresult' to verify whether the Finance Mapped Drive GPO was being applied.
+- Identified that the GPO was initially being denied due to security filtering.
+- Updated GPO delegation to allow Authenticated Users Read access while keeping policy application restricted to the Finance security group.
+- Refreshed Group Policy and verified that the Finance Mapped Drive GPO successfully applied.
+
+[Finance GPO successfully applied]()
+
+## Resolution
+
+The Finance Mapped Drive GPO successfully mapped '\\DC1\Finance' as  the T: drive on the user account.
+
+[Finance T drive successfully mapped]()
+
+The user logged back into their account, confirmed that the Finance drive was visible and accessible.
+
+[Resolved Jira ticket]()
+
+User was able to login to their workstation.
+
+Ticket was resolved and closed.
+
+[Resolved Jira ticket] ([images/ticket-02/03-ticket-resolved.png](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/4908e97225152bd4c3f4540ff57e9ab6a6eb827d/images/ticket-02/03-ticket-resolved.png))
