@@ -33,3 +33,10 @@ End-user reports that they are unable to login to their workstation using their 
 End-user reports that Account is locked.
 
 ([Ticket 2 - User Account Locked](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/e32165ff63c5a273f7cdecda9f4e6430c8d66b82/Ticket%202-%20User%20Account%20Locked.md))
+
+
+### Ticket 3 - Mapped Drive
+
+End-user reports drive is not mapped to their account.
+
+([Ticket 3 - User Unable to Access Mapped Drive] (https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/056dafcb1be790d36122306f6c2c2009ee278309/Ticket%203%20-%20User%20Unable%20to%20Access%20Mapped%20Drive%20for%20Department.md))
