@@ -15,7 +15,7 @@ User, Al Bundy, reports that they are unable to see their department drive mappe
 
 - Created and linked a GPO to the Finance OU to map '\\DC1\Finance' as the T: Drive.
 
-[Finance drive mapping GPO]([images/ticket-03/03-drive-map-configuration.png](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/abb2fff8d68a117005a310d74f5662ed464b44ea/images/ticket-03/03-drive-map-configuration.png))
+[Finance drive mapping GPO] ([images/ticket-03/03-drive-map-configuration.png](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/abb2fff8d68a117005a310d74f5662ed464b44ea/images/ticket-03/03-drive-map-configuration.png))
 
 - Ran 'gpupdate /force' on the client workstation to refresh Group Policy.
 - Used 'gpresult' to verify whether the Finance Mapped Drive GPO was being applied.
@@ -23,7 +23,7 @@ User, Al Bundy, reports that they are unable to see their department drive mappe
 - Updated GPO delegation to allow Authenticated Users Read access while keeping policy application restricted to the Finance security group.
 - Refreshed Group Policy and verified that the Finance Mapped Drive GPO successfully applied.
 
-[Finance GPO successfully applied]([images/ticket-03/04-gpresult-success.png]([https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/abb2fff8d68a117005a310d74f5662ed464b44ea/images/ticket-03/03-drive-map-configuration.png](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/abb2fff8d68a117005a310d74f5662ed464b44ea/images/ticket-03/04-gpresult-success.png)))
+[Finance GPO successfully applied] ([images/ticket-03/04-gpresult-success.png]([https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/abb2fff8d68a117005a310d74f5662ed464b44ea/images/ticket-03/03-drive-map-configuration.png](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/abb2fff8d68a117005a310d74f5662ed464b44ea/images/ticket-03/04-gpresult-success.png)))
 
 ## Resolution
 
@@ -31,7 +31,7 @@ The Finance Mapped Drive GPO successfully mapped '\\DC1\Finance' as  the T: driv
 
 The user logged back into their account, confirmed that the Finance drive was visible and accessible.
 
-[Finance T drive successfully mapped]([images/ticket-03/05-finance-drive-mapped.png](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/abb2fff8d68a117005a310d74f5662ed464b44ea/images/ticket-03/05-finance-drive-mapped.png))
+[Finance T drive successfully mapped] ([images/ticket-03/05-finance-drive-mapped.png](https://github.com/DenCorson/IT-Support-Ticketing-Lab/blob/abb2fff8d68a117005a310d74f5662ed464b44ea/images/ticket-03/05-finance-drive-mapped.png))
 
 User was able to login to their workstation.
 
